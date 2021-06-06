@@ -6,7 +6,7 @@ time = datetime.datetime.now(pytz.timezone('Asia/Tokyo'))
 time = time.strftime('%Y/%m/%d/ %H:%M:%S')
 
 #GET TOKEN
-TOKEN = 'wtuI6Umpk9aqlULBd1FRF43e3LvtJBB2ClE7cFKoy3a'
+TOKEN = 'mhmAyvtI7nIiMM5ihPsdaBrVfriyLBFbqwfsLYd5H8z'
 #API URL
 api_url = 'https://notify-api.line.me/api/notify'
 #send time
